@@ -129,6 +129,6 @@ while x != 0:
 
     else:
         print()
-        print('***  Thank You  ***')
+        print('***  Invaid Input  ***')
         print()
 
